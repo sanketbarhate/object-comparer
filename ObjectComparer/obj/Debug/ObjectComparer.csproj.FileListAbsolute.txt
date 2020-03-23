@@ -1,0 +1,6 @@
+C:\Users\puja\Downloads\object-comparer\ObjectComparer\bin\Debug\ObjectComparer.dll
+C:\Users\puja\Downloads\object-comparer\ObjectComparer\bin\Debug\ObjectComparer.pdb
+C:\Users\puja\Downloads\object-comparer\ObjectComparer\obj\Debug\ObjectComparer.csprojAssemblyReference.cache
+C:\Users\puja\Downloads\object-comparer\ObjectComparer\obj\Debug\ObjectComparer.csproj.CoreCompileInputs.cache
+C:\Users\puja\Downloads\object-comparer\ObjectComparer\obj\Debug\ObjectComparer.dll
+C:\Users\puja\Downloads\object-comparer\ObjectComparer\obj\Debug\ObjectComparer.pdb
